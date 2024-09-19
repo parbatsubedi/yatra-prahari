@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">VehiDocs</string>
+    <string name="digital_vehicle">VehiDocs</string>
+    <string name="textQuote">Your Wheels, Digitally Secured</string>
+    <string name="todo">TODO</string>
+    <string name="verify_mobile_number">Verify Mobile Number</string>
+    <string-array name="vehicle_array">
+        <item>BA (Bagmati)</item>
+        <item>JA (Janakpur)</item>
+        <item>GA (Gandaki)</item>
+        <item>Ra (Rapti)</item>
+        <item>KA (Karnali)</item>
+        <item>LU (Lumbini)</item>
+    </string-array>
+
+</resources>

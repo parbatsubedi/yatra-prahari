@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "185407117722",
+    "firebase_url": "https://digitalvehicle-66b90-default-rtdb.firebaseio.com",
+    "project_id": "digitalvehicle-66b90",
+    "storage_bucket": "digitalvehicle-66b90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185407117722:android:c9d689e438553f9e118223",
+        "android_client_info": {
+          "package_name": "com.aadim.trafficdigitalvehicle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sKMbow7XABM0jH6Xcd3NMYIUGyv-oKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:185407117722:android:50a1173c2073c5d9118223",
+        "android_client_info": {
+          "package_name": "com.example.vehidocs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB4sKMbow7XABM0jH6Xcd3NMYIUGyv-oKw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/DigitalVehicle/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.107" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/drawable/customborder.xml" value="0.1" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/drawable/ic_baseline_location_on_24.xml" value="0.1" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/drawable/rounded_button.xml" value="0.107" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/drawable/rounded_dashboard.xml" value="0.107" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_add_bluebook_image.xml" value="0.31765711842667804" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_bluebook_page.xml" value="0.25" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_lend.xml" value="0.31765711842667804" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_license_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_log_in_otpconfirmation.xml" value="0.18426678067550234" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_login_user.xml" value="0.1" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_main.xml" value="0.18548387096774194" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_main_page.xml" value="0.16545532278751604" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_menu.xml" value="0.1" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_message.xml" value="0.33" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_messagemain.xml" value="0.1493940660259089" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_request.xml" value="0.18426678067550234" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_request_bluebook.xml" value="0.33" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_sign_up_otpconfirmation.xml" value="0.31765711842667804" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_support_page.xml" value="0.18426678067550234" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_test.xml" value="0.2" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/activity_vehicle_tax_page.xml" value="0.18426678067550234" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/layout/layout.xml" value="0.17272338606241983" />
+        <entry key="..\:/DigitalVehicle/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.107" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_add_bluebook_image.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_bluebook_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_generate_code.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_image_one.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_image_two.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_lend.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_license_page.xml" value="0.1550355202674467" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_log_in_otpconfirmation.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_login_user.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_main.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_main_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_menu.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_message.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_messagemain.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_request.xml" value="0.1550355202674467" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_request_bluebook.xml" value="0.67" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_sign_up_otpconfirmation.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_support_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_test.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/activity_vehicle_tax_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/DigitalVehicle/app/src/main/res/layout/list_item.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/drawable/rounded_button.xml" value="0.255" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_add_bluebook_image.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_bluebook_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_generate_code.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_image_one.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_image_two.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_lend.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_license_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_log_in_otpconfirmation.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_login_user.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_main.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_main_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_menu.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_request.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_request_bluebook.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_sign_up_otpconfirmation.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/activity_test.xml" value="0.31765711842667804" />
+        <entry key="..\:/My Project/VehiDocs/app/src/main/res/layout/list_item.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1945" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/drawable/rounded_button.xml" value="0.1" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/drawable/rounded_dashboard.xml" value="0.221" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout-v21/activity_login_user.xml" value="0.21784420289855072" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout-v21/activity_menu.xml" value="0.213768115942029" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_bluebook_page.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_lend.xml" value="0.22" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_license_page.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_log_in_otpconfirmation.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_login.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_login_user.xml" value="0.22" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_main_page.xml" value="0.25" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_menu.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_request.xml" value="0.22" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_request_bluebook.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_sign_up_otpconfirmation.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_support_page.xml" value="0.18426678067550234" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_test.xml" value="0.21875" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/layout/activity_vehicle_tax_page.xml" value="0.22" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1045" />
+        <entry key="..\:/Users/Hp/DigitalVehicle/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1045" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_add_bluebook_image.xml" value="0.33" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_bluebook_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_generate_code.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_image_one.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_image_two.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_lend.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_license_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_log_in_otpconfirmation.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_login_user.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_main.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_main_page.xml" value="0.25" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_menu.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_request.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_request_bluebook.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_sign_up_otpconfirmation.xml" value="0.31765711842667804" />
+        <entry key="..\:/Users/Veevek/Android Workspace/VehiDocs/app/src/main/res/layout/activity_test.xml" value="0.31765711842667804" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/drawable/rounded_button.xml" value="0.1" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/drawable/rounded_dashboard.xml" value="0.1" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_bluebook_page.xml" value="0.31765711842667804" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_generate_code.xml" value="0.22484134179510426" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_license_page.xml" value="0.33" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_log_in_otpconfirmation.xml" value="0.1550355202674467" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_login_user.xml" value="0.15357292101964062" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_main.xml" value="0.1658828559213339" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_main_page.xml" value="0.33" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_menu.xml" value="0.25" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_message.xml" value="0.1550355202674467" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_test.xml" value="0.1550355202674467" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/activity_vehicle_tax_page.xml" value="0.5" />
+        <entry key="..\:/project/DigitalVehicle/app/src/main/res/layout/list_item.xml" value="0.1550355202674467" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

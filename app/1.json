@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "19791979168",
+    "firebase_url": "https://digitalvehicle-5fc1b-default-rtdb.firebaseio.com",
+    "project_id": "digitalvehicle-5fc1b",
+    "storage_bucket": "digitalvehicle-5fc1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19791979168:android:797eb2ec8a89fd7775dfc5",
+        "android_client_info": {
+          "package_name": "com.example.digitalvehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19791979168-3nl0mt4kce6bk3ct47pqidsdgefk0la5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalvehicle",
+            "certificate_hash": "4355c13402f40053a1f5b36dc292a36d55b1525e"
+          }
+        },
+        {
+          "client_id": "19791979168-i82r3djo484gimni0c8kl4op2kj42ut2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.digitalvehicle",
+            "certificate_hash": "0bdaf46a3cfe2ce3078bb93418f71291befeb850"
+          }
+        },
+        {
+          "client_id": "19791979168-rivemu9hb02g1idjbrv3slufnntfrnon.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzdndcwDTl2fritHgi0e-U6SQw-1WKjiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19791979168-rivemu9hb02g1idjbrv3slufnntfrnon.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

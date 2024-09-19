@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:orientation="vertical"
+    tools:context=".activities.SignUpOTPConfirmation">
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/back_Btn"
+        android:layout_width="76dp"
+        android:layout_height="wrap_content"
+        android:background="#00FFFFFF"
+        android:drawableBottom="?attr/actionModeCloseDrawable"
+        android:onClick="back"
+        tools:ignore="OnClick,SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="240dp"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/otp" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/verifyMobileNo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="Verify Mobile Number"
+        android:textSize="16sp"
+        android:textStyle="bold" />
+
+    <androidx.appcompat.widget.AppCompatTextView
+        android:id="@+id/verifyMobile"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp"
+        android:fontFamily="sans-serif"
+        android:gravity="center"
+        android:text="We have send the six digits code on your mobile number. "
+        android:textSize="16sp"
+        android:textStyle="italic" />
+
+    <com.chaos.view.PinView
+        android:id="@+id/verification_code_entered_by_user"
+        style="@style/PinWidget.PinView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_marginTop="20dp"
+        android:inputType="number"
+        app:itemCount="6"
+        app:itemHeight="50dp"
+        app:itemRadius="5dp"
+        app:itemWidth="50dp"
+        tools:ignore="SpeakableTextPresentCheck,SpeakableTextPresentCheck,SpeakableTextPresentCheck" />
+
+    <androidx.appcompat.widget.AppCompatButton
+        android:id="@+id/verify_btn"
+        android:layout_width="match_parent"
+        android:layout_height="70dp"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="50dp"
+        android:background="@drawable/rounded_button"
+        android:fontFamily="@font/rubik_mono_one"
+        android:text="Verify"
+        android:textColor="@color/text"
+        android:textSize="16sp"
+        tools:ignore="TextContrastCheck,TextContrastCheck,TextContrastCheck" />
+
+
+</LinearLayout>
